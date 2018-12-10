@@ -1,2 +1,2 @@
 #!/bin/sh
-exec monit -I -c /etc/monit/monitrc 2>&1
+exec monit -I 2>&1
